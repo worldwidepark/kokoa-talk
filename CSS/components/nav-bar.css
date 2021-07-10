@@ -20,20 +20,10 @@
 }
 
 .nav__notification{
-    background-color: tomato;
-    width:25px;
-    height: 25px;
-    border-radius:12.5px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
+
     position: absolute;
     left:15px;
     bottom: 15px;
-
-
 
 }
 
@@ -51,4 +41,19 @@
     bottom: 20px;
 
 }
+.nav__notification3{
+    background-color: tomato;
+    width: 10px;
+    height: 10px;
+    border-radius:5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    left: 70px;
+    bottom: 20px;
+
+}
+
 
