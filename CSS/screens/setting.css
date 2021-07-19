@@ -19,3 +19,6 @@
 .settings-setting-column :last-child{
     opacity: 0.5;
 }
+.alt-header{
+    margin-top: 20px;
+}
